@@ -7,7 +7,7 @@ window.CAMPUSCARE_AUTH_CONFIG = Object.freeze({
   hostedUiDomain: "https://ap-south-18inwv0jiz.auth.ap-south-1.amazoncognito.com",
   redirectUri: campusCareCallbackUrl,
   logoutUri: campusCareCallbackUrl,
-  apiBaseUrl: "https://your-url.lambda-url.ap-south-1.on.aws",
+  apiBaseUrl: "https://mkrctq5oxy5urrgf2po3mgwa2y0skkoo.lambda-url.ap-south-1.on.aws",
   adminGroup: "CampusCareAdmins",
   scopes: ["openid", "email", "profile"]
 });
