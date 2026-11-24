@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+backend/campuscare-lambda.zip
+.env
+.env.*
+!.env.example
+.aws/
